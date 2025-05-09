@@ -1,11 +1,11 @@
 /* Global Styles */
 :root {
-    --primary-color: #133020;
-    --secondary-color: #327039;
-    --accent-color: #e74c3c;
-    --light-color: #f8f9fa;
-    --dark-color: #343a40;
-    --text-color: #333;
+    --primary-color: #0C342C;
+    --secondary-color: #154e43;
+    --accent-color: #eeeeed;
+    --light-color: #d4e2e3;
+    --dark-color: #c0ccd6;
+    --text-color: #090909;
     --border-radius: 5px;
     --box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     --transition: all 0.3s ease;
